@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Messenger/app/src/main/res/layout/custom_chatview.xml" value="0.5" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/drawable/chat_color.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/drawable/ic_baseline_attachment_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/drawable/purple_color.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/drawable/rectangle_edit.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/drawable/tint_color.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_chat.xml" value="0.22" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_login.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_main.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/add_attachment_popup.xml" value="0.1796875" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/custom_chatimageview.xml" value="0.1796875" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/custom_chatview.xml" value="0.22" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/layout/custom_userlist.xml" value="0.5" />
+        <entry key="..\:/Users/rawat/AndroidStudioProjects/Messenger/app/src/main/res/menu/add_attachment_popup.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
